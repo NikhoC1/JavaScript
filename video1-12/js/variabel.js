@@ -1,0 +1,10 @@
+let angka;
+let kata = "khuntul";
+console.log (angka);
+console.log (kata);
+const data = 100;
+console.log (data);
+angka = 10;
+console.log (angka);
+let isi = 4.6;
+console.log (typeof isi); 
